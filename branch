@@ -1,0 +1,3 @@
+git pull
+git checkout -b[DEV]
+git push origin[DEV]
